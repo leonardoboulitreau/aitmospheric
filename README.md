@@ -1,5 +1,5 @@
 # aitmospheric
-![image](https://github.com/lucashueda/IA376L/blob/main/title.png)
+![image](https://github.com/leonardoboulitreau/aitmospheric/blob/main/title.png)
 Original Implementation of the aitmospheric natural-like soundscape generator for The Sound of AI 2022 Hackathon
 
 No time to make a decent description!
